@@ -1,0 +1,7 @@
+/**
+ * sumthin
+ */
+public class sumthin {
+
+    
+}
